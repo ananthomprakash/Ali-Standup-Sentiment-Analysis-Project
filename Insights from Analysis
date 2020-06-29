@@ -1,0 +1,33 @@
+Conclusion and Insights
+1) Our initial Question was what makes ali wong's comedy routine standout?
+
+Steps We followed
+
+1) Exploratory Data Analysis
+
+1.1) Top Words(Word Cloud)
+
+1.2) Vocabulary size (Bar Plot)
+
+1.3) Amount of Profanity (Scatter Plot)
+
+2) NLP Techniques
+
+2.1) Sentiment Analysis
+
+2.2) Topic Modeling
+
+2.3) Text Generation
+Insights About Ali
+
+1) Ali wong talks about her family a lot
+
+2) She has the highest s-word to f-word ratio
+
+3) Her Speech tends to be more positive and less opinionated
+
+People who don't say the f-word more often Mike ,John
+
+People who have routines with similar sentiment pattern Louis c.k, Mike
+
+People who talk about similar topics including 'mom' and 'Parents': John ,Mike
